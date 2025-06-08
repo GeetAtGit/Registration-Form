@@ -1,6 +1,6 @@
 # 🌐Registration Form
-[Visit My Website](https://geetatgit.github.io/Registration-Form/)
-A responsive and animated registration form built with **React** and **Tailwind CSS**. It validates user inputs, shows/hides the password, adjusts country code based on selected country, and transitions to a summary page upon successful submission.
+A responsive and animated registration form built with **React** and **Tailwind CSS**. It validates user inputs, shows/hides the password, adjusts country code based on selected country, and transitions to a summary page upon successful submission.[Visit My Website](https://geetatgit.github.io/Registration-Form/)
+
 
 ---
 
